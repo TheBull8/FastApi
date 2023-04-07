@@ -1,5 +1,5 @@
-# ultimate-fastapi-tutorial
-The Ultimate FastAPI Tutorial
+# ultimate-fastapi
+The Ultimate FastAPI 
 
 For detailed explanations and to follow along:
 
